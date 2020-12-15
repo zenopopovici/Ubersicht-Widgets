@@ -1,2 +1,2 @@
-# ubersicht-weather
-Ubersicht Weather Widget
+# ubersicht-welcome
+Ubersicht System Battery
