@@ -1,5 +1,7 @@
 # Ubersicht Widgets
 
+![Widgets screenshot](https://raw.githubusercontent.com/zenopopovici/ubersicht-widgets/main/Screenshot.png)
+
 All widgets have been tested and are working on macOS Big Sur 11.1. 
 
 For other versions you'll have to edit and adjust the widgets yourself (E.g. Battery widgets).
